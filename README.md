@@ -1,2 +1,3 @@
-# todolist-custom-hooks
-Created with CodeSandbox
+# Todolist
+
+Todolist app to experiment and demo custom React Hooks
